@@ -1,1 +1,29 @@
 # clash-shamebot
+
+A mini-bot for aggregating Clash of Clans missed war attack data from the discord bot ClashPerk, using messages posted in a discord text channel.
+
+
+Sums up missed attacks/user and posts a text summary in a given discord channel.
+
+Made for own use, may vary based on your setup but feel free to use or modify it.
+
+### Commands:
+`/shame` - Posts all time data (based on entire text chat history)
+
+### Cronjob:
+Posts data from last 30 days on the first of each month at 10 AM.
+
+
+### Example output:
+
+```
+🔔 Missed Attacks Summary - All Time:
+
+‎Barbarian: 4 missed attacks
+‎Archer: 4 missed attacks
+‎Giant: 3 missed attacks
+‎Goblin: 3 missed attacks
+‎Wall Breaker: 3 missed attacks
+‎Balloon: 2 missed attacks
+‎Wizard: 2 missed attacks
+```

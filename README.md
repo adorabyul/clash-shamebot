@@ -8,7 +8,7 @@ Sums up missed attacks/user and posts a text summary in a given discord channel.
 Made for own use, mileage may vary based on your setup but feel free to use or modify it to fit your needs.
 
 ### Commands:
-`/shame` - Posts all time data (based on entire text chat history)
+`/shame` - Posts all time data (based on entire text channel history)
 
 ### Cronjob:
 Posts data from last 30 days on the first of each month at 10 AM.

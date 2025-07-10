@@ -12,5 +12,4 @@ COPY .env ./
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 USER appuser
 
-# Start the bot
 CMD ["node", "dist/index.js"]

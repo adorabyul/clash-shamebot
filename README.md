@@ -5,7 +5,7 @@ A mini-bot for aggregating Clash of Clans missed war attack data from the discor
 
 Sums up missed attacks/user and posts a text summary in a given discord channel.
 
-Made for own use, may vary based on your setup but feel free to use or modify it to fit your needs.
+Made for own use, mileage may vary based on your setup but feel free to use or modify it to fit your needs.
 
 ### Commands:
 `/shame` - Posts all time data (based on entire text chat history)

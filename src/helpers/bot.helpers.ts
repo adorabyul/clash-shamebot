@@ -1,4 +1,4 @@
-import { Message, EmbedField } from 'discord.js';
+import type { Message, EmbedField } from 'discord.js';
 
 
 export function formatValues(

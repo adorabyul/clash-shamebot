@@ -1,6 +1,6 @@
 # clash-shamebot
 
-A mini-bot for aggregating Clash of Clans missed war attack data from the discord bot ClashPerk, using messages posted in a discord text channel.
+A mini-bot for aggregating Clash of Clans missed war attack data from the discord bot [ClashPerk](https://github.com/clashperk/clashperk), using messages posted in a discord text channel.
 
 
 Sums up missed attacks/user and posts a text summary in a given discord channel.

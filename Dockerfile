@@ -13,3 +13,4 @@ RUN addgroup -S appgroup && adduser -S appuser -G appgroup
 USER appuser
 
 CMD ["node", "dist/index.js"]
+

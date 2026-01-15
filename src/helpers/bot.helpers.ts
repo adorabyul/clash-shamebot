@@ -2,6 +2,7 @@ import type { Message, EmbedField } from 'discord.js';
 import type { TimePeriod } from '../interfaces/bot.interfaces.js';
 
 
+
 export function isTimePeriod(value: string): value is TimePeriod {
     return ['alltime', 'days', 'weeks', 'months', 'years'].includes(value);
 }
